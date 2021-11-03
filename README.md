@@ -1,0 +1,1 @@
+Small social media using Node.js, apollo-express, React, GraphQL and MongoDb
